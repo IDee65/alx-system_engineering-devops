@@ -2,4 +2,4 @@
 
 # connect to server using pub key in ~/.ssh/schoo
 
-ssh -i ~/.ssh/school ubuntu@100.26.161.56
+ssh -i ~/.ssh/school ubuntu@54.196.38.139
